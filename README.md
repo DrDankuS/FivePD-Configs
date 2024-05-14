@@ -1,6 +1,6 @@
-# FivePD UK Configs 🚓🇬🇧
+# FivePD UK Data Sets 🚓🇬🇧
 
-Welcome to FivePD UK Configs, a repository containing custom configurations tailored for use with FivePD in a United Kingdom-based environment. This includes UK versions for questions, items, and charges suitable for policing in the UK.
+Welcome to FivePD UK Data Sets, a repository containing custom configurations tailored for use with FivePD in a United Kingdom-based environment. This includes UK versions for questions, items, and charges suitable for policing in the UK.
 
 ## Installation
 
